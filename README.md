@@ -19,4 +19,11 @@ There are several components to this project, which we are aiming to define:
 ## How can I contribute?
 As with many terminology sets, it is important that each concept demonstrates a unique thought or intention, and each concept's relationship to its siblings or parents/children is defined.   
 This is where you may be able to help! Please be mindful of the trade-offs: each concept must be unique and unambiguous, but it must also be able to fully represent an individual's intentions when combined with other concepts. We want to add concepts when this is not currently possible, and we want to define its relationship to other relevant concepts.  
-If you think you have a contribution you would like to make, you can email the project team to get started.
+  
+If you think you have a contribution you would like to make, there are a few options:  
+- If you are familiar with GitHub:
+  - Create a pull request,
+  - Update the relevant concepts in the Data folder, and
+  - Submit the request.
+  - We will try to review it within the next month.
+- Email robin.blythe@qut.edu.au or reach out on LinkedIn: https://www.linkedin.com/in/robin-blythe-7428ba65/
