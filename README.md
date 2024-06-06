@@ -23,7 +23,7 @@ This is where you may be able to help! Please be mindful of the trade-offs: each
 If you think you have a contribution you would like to make, there are a few options:  
 - If you are familiar with GitHub:
   - Create a pull request,
-  - Update the relevant concepts in the Data folder, and
+  - Update the relevant concepts and relationships in the Data folder (as .csv files), and
   - Submit the request.
   - We will try to review it within the next month.
 - Email robin.blythe@qut.edu.au or reach out on LinkedIn: https://www.linkedin.com/in/robin-blythe-7428ba65/
